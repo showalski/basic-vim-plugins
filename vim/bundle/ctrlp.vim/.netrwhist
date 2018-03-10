@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/nobackup/zhishao/polarisDC/CSCuz70130_0618_032706'
+let g:netrw_dirhist_2='/auto/mcp-project163/submit2commit/polaris_dev/queue/raw/160704070841.zhishao/logs_patch_failed.160704.07:21'
+let g:netrw_dirhist_3='/nobackup/zhishao/polaris/polarisShowBoth1'
+let g:netrw_dirhist_4='/nobackup/zhishao/polaris/polarisShowBoth1/.acme_project'
+let g:netrw_dirhist_5='/nobackup/zhishao/polaris20160503_041002_CSCuy00229'
+let g:netrw_dirhist_6='/auto/cable18/battlestar/uboot/RELEASE_2011.3.16'
+let g:netrw_dirhist_7='/nobackup/zhishao/fcc/mackerel_cman/openwrt15.05-stable/build_dir/target-aarch64_armv8-a_glibc-2.19/linux-fcc/linux-4.1.8/.pc/foo.pathc'
+let g:netrw_dirhist_8='/nobackup/zhishao/fcc/rpdlc_showlog_new/openwrt15.05-stable/build_dir/target-aarch64_armv8-a_glibc-2.19/rsyslog-8.21.0/contrib/omhiredis'
