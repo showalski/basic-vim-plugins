@@ -1,4 +1,14 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" 
+" This file was copied from 
+"    https://raw.githubusercontent.com/amix/vimrc/master/vimrcs/basic.vim
+" and I did a few modifications for NERDTree, TagList and CtrlIP
+"
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => General
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Sets how many lines of history VIM has to remember
