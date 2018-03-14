@@ -23,6 +23,10 @@ Copy below line to your `~/.vimrc`, which maps `F8` key to open tag list window.
 
 `Set shortcut: nnoremap <silent> <F8> :TlistToggle<CR>`
 
+Below line can adjust the width of taglist windown:
+
+`let Tlist_WinWidth = somenumber`
+
 ### Usage:
 	1. Press F8 to open or close Taglist window.
 	2. p: Put crusor at a variable or function in Taglist window and press p then you will jump to its definition.

@@ -405,8 +405,10 @@ endfunction
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Added by zhishao
+" Added by showalski
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Change the default width of taglist window. After setting reopen taglist windown to take effect.
+" let Tlist_WinWidth = somenumber
 " Map F8 to open or close TagList window
 nnoremap <silent> <F8> :TlistToggle<CR>
 " Let Tlist_Ctags_Cmd point to right ctags as code server's default ctags points to
