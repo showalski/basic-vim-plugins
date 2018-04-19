@@ -472,9 +472,6 @@ set wildignore+=*.so,*.o,*.swp,*.zip,*gz,*bz2
 set nu
 set statusline+=col:\ %c
 
-" This highlights the background in a subtle red for text that goes over the 80 column limit
-"highlight OverLength ctermbg=red ctermfg=white guibg=#592929
-"match OverLength /\%81v.\+/
-
-highlight ColorColumn ctermbg=235 guibg=#2c2d27
-let &colorcolumn="80,".join(range(240,9999),",")
+"highlights the background in a subtle red for text that goes over the 80 column limit
+highlight OverLength ctermbg=red ctermfg=white guibg=#592929
+match OverLength /\%81v.\+/
